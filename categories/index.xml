@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Health Simply Put</title>
-    <link>https://grahamchalfant.github.io/healthputsimply/categories/</link>
+    <link>//healthputsimply/categories/</link>
     <description>Recent content in Categories on Health Simply Put</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://grahamchalfant.github.io/healthputsimply/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="//healthputsimply/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Health</title>
-      <link>https://grahamchalfant.github.io/healthputsimply/categories/health/</link>
+      <link>//healthputsimply/categories/health/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://grahamchalfant.github.io/healthputsimply/categories/health/</guid>
+      <guid>//healthputsimply/categories/health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://grahamchalfant.github.io/healthputsimply/categories/personal/</link>
+      <link>//healthputsimply/categories/personal/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://grahamchalfant.github.io/healthputsimply/categories/personal/</guid>
+      <guid>//healthputsimply/categories/personal/</guid>
       <description></description>
     </item>
     
