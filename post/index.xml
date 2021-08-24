@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Health Simply Put</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Health Simply Put</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intermittent Fasting</title>
+      <link>/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api/</link>
+      <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-06-04-introducing-the-istio-v1alpha3-routing-api/</guid>
+      <description>Intermittent fasting is the absence of food for prolonged periods. It is not a new concept; early human evolution studies suggest humans evolved in fasted environments. This makes sense, as our ancestors did not have fridges full of food or grocery stores on every corner. Food was not a guarantee, and going days without food was not uncommon.
+I have been intermittent fasting since 2018 and do not plan on stopping.</description>
+    </item>
+    
+    <item>
+      <title>Study Abroad</title>
+      <link>/2018/06/02/istio08/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/06/02/istio08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
