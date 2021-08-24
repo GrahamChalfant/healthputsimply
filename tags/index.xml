@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Health Simply Put</title>
-    <link>//healthputsimply/tags/</link>
-    <description>Recent content in Tags on Health Simply Put</description>
+    <title>Tags on Health Put Simply</title>
+    <link>https://grahamchalfant.github.io/healthputsimply/tags/</link>
+    <description>Recent content in Tags on Health Put Simply</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="//healthputsimply/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://grahamchalfant.github.io/healthputsimply/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fasting</title>
-      <link>//healthputsimply/tags/fasting/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/tags/fasting/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/tags/fasting/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/tags/fasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Intermittent Fasting</title>
-      <link>//healthputsimply/tags/intermittent-fasting/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/tags/intermittent-fasting/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/tags/intermittent-fasting/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/tags/intermittent-fasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ketosis</title>
-      <link>//healthputsimply/tags/ketosis/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/tags/ketosis/</link>
       <pubDate>Mon, 04 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/tags/ketosis/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/tags/ketosis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Istio</title>
-      <link>//healthputsimply/tags/istio/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/tags/istio/</link>
       <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/tags/istio/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/tags/istio/</guid>
       <description></description>
     </item>
     

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tops on Health Simply Put</title>
-    <link>//healthputsimply/top/</link>
-    <description>Recent content in Tops on Health Simply Put</description>
+    <title>Tops on Health Put Simply</title>
+    <link>https://grahamchalfant.github.io/healthputsimply/top/</link>
+    <description>Recent content in Tops on Health Put Simply</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//healthputsimply/top/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grahamchalfant.github.io/healthputsimply/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//healthputsimply/top/about/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/top/about/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/top/about/</guid>
       <description>Hi, my name is Graham Chalfant, and this site is a way for me to share the things I have learned living with a therapist, nutritionist, doctor, and healthcare professional.
 I grew up in Charlotte, NC, with a highly health-conscious family. As a child, I thought my parents were psychotic and despised their health choices. I still have trust issues with my mom after she tried to feed my zucchini brownies&amp;hellip;</description>
     </item>
     
     <item>
       <title></title>
-      <link>//healthputsimply/top/books/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/top/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/top/books/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/top/books/</guid>
       <description></description>
     </item>
     

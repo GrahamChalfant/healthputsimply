@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Searches on Health Simply Put</title>
-    <link>//healthputsimply/search/</link>
-    <description>Recent content in Searches on Health Simply Put</description>
+    <title>Searches on Health Put Simply</title>
+    <link>https://grahamchalfant.github.io/healthputsimply/search/</link>
+    <description>Recent content in Searches on Health Put Simply</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="//healthputsimply/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grahamchalfant.github.io/healthputsimply/search/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//healthputsimply/search/placeholder/</link>
+      <link>https://grahamchalfant.github.io/healthputsimply/search/placeholder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//healthputsimply/search/placeholder/</guid>
+      <guid>https://grahamchalfant.github.io/healthputsimply/search/placeholder/</guid>
       <description></description>
     </item>
     
