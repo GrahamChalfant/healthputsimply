@@ -2,26 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Health Put Simply</title>
-    <link>https://grahamchalfant.github.io/healthputsimply/tags/</link>
+    <link>https://healthputsimply.com/tags/</link>
     <description>Recent content in Tags on Health Put Simply</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://grahamchalfant.github.io/healthputsimply/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://healthputsimply.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Fasting</title>
-      <link>https://grahamchalfant.github.io/healthputsimply/tags/fasting/</link>
+      <title>Choice</title>
+      <link>https://healthputsimply.com/tags/choice/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://grahamchalfant.github.io/healthputsimply/tags/fasting/</guid>
+      <guid>https://healthputsimply.com/tags/choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fasting</title>
+      <link>https://healthputsimply.com/tags/fasting/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://healthputsimply.com/tags/fasting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ketosis</title>
-      <link>https://grahamchalfant.github.io/healthputsimply/tags/ketosis/</link>
+      <link>https://healthputsimply.com/tags/ketosis/</link>
       <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://grahamchalfant.github.io/healthputsimply/tags/ketosis/</guid>
+      <guid>https://healthputsimply.com/tags/ketosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perspective</title>
+      <link>https://healthputsimply.com/tags/perspective/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://healthputsimply.com/tags/perspective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subconscious</title>
+      <link>https://healthputsimply.com/tags/subconscious/</link>
+      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://healthputsimply.com/tags/subconscious/</guid>
       <description></description>
     </item>
     

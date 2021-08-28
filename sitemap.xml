@@ -2,38 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/categories/</loc>
+    <loc>https://healthputsimply.com/categories/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/tags/fasting/</loc>
+    <loc>https://healthputsimply.com/tags/choice/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/categories/health/</loc>
+    <loc>https://healthputsimply.com/tags/fasting/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/</loc>
+    <loc>https://healthputsimply.com/categories/health/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/post/fasting/</loc>
+    <loc>https://healthputsimply.com/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/tags/ketosis/</loc>
+    <loc>https://healthputsimply.com/post/fasting/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/post/</loc>
+    <loc>https://healthputsimply.com/tags/ketosis/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/tags/</loc>
+    <loc>https://healthputsimply.com/tags/perspective/</loc>
     <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/search/placeholder/</loc>
+    <loc>https://healthputsimply.com/post/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/top/about/</loc>
+    <loc>https://healthputsimply.com/tags/subconscious/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/top/books/</loc>
+    <loc>https://healthputsimply.com/tags/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/search/</loc>
+    <loc>https://healthputsimply.com/post/perspective-shapes-reality/</loc>
+    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://grahamchalfant.github.io/healthputsimply/top/</loc>
+    <loc>https://healthputsimply.com/search/placeholder/</loc>
+  </url><url>
+    <loc>https://healthputsimply.com/top/about/</loc>
+  </url><url>
+    <loc>https://healthputsimply.com/top/books/</loc>
+  </url><url>
+    <loc>https://healthputsimply.com/search/</loc>
+  </url><url>
+    <loc>https://healthputsimply.com/top/</loc>
   </url>
 </urlset>
