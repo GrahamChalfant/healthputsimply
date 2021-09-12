@@ -6,7 +6,19 @@
     <description>Recent content on Health Put Simply</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://healthputsimply.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://healthputsimply.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Luck Bad Luck</title>
+      <link>https://healthputsimply.com/post/goodluckbadluck/</link>
+      <pubDate>Sun, 12 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://healthputsimply.com/post/goodluckbadluck/</guid>
+      <description>Picture by Quang Nguyen Vinh
+The story of the Chinese farmer has had a significant impact on my life and well-being.
+&amp;quot; A farmer and his son had a beloved horse who helped the family earn a living. One day, the horse ran away and their neighbours exclaimed, “Your horse ran away, what terrible luck!” The farmer replied, “Maybe so, maybe not.”
+A few days later, the horse returned home, leading a few wild horses back to the farm as well.</description>
+    </item>
+    
     <item>
       <title>Intermittent Fasting</title>
       <link>https://healthputsimply.com/post/fasting/</link>
@@ -16,15 +28,6 @@
       <description>Picture by Christopher Jolly
 A person who intermittently fasts only eats during certain hours of the day. Intermittent fasting has been practiced for thousands of years (1, 2). From an evolutionary stand point, intermittent fasting makes sense. Our ancestors did not have fridges full of food or grocery stores on every corner. Food was not a guarantee, and going days without food was not uncommon.
 I have been intermittent fasting since 2018 and do not plan on stopping.</description>
-    </item>
-    
-    <item>
-      <title>Your Perspective Shapes Your Reality</title>
-      <link>https://healthputsimply.com/post/perspective-shapes-reality/</link>
-      <pubDate>Wed, 25 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://healthputsimply.com/post/perspective-shapes-reality/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -52,7 +55,8 @@ This blog is a culmination of everything we have learned and shared with each ot
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://healthputsimply.com/top/books/</guid>
-      <description></description>
+      <description>List of amazing books to improve mental and physical health!
+ Fast This Way by Dave Asprey  </description>
     </item>
     
   </channel>
