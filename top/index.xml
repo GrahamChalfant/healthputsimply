@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tops on Health Put Simply</title>
-    <link>https://healthputsimply.com/top/</link>
-    <description>Recent content in Tops on Health Put Simply</description>
+    <title>Tops on Graham Chalfant</title>
+    <link>https://grahamchalfant.com/top/</link>
+    <description>Recent content in Tops on Graham Chalfant</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://healthputsimply.com/top/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://grahamchalfant.com/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://healthputsimply.com/top/about/</link>
+      <link>https://grahamchalfant.com/top/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://healthputsimply.com/top/about/</guid>
-      <description>My friends and I are constantly trying and sharing new ideas which can help us live happier and healthier lives. We have been doing this for years and have found and tried quite a few different health practices. Because we have done tons of research and experimentation, we thought we would share what we have learned from our own personal experiences!
-This blog is a culmination of everything we have learned and shared with each other.</description>
+      <guid>https://grahamchalfant.com/top/about/</guid>
+      <description>Hi I&amp;rsquo;m Graham!
+I am currently a marketing analyst living in NYC. I am very interested in psychology, human behavior, design, and nutrition.
+My posts are about things I have learned or care about. I try to post once a month, and my posts usually cover my interests.
+I hope you enjoy!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://healthputsimply.com/top/books/</link>
+      <link>https://grahamchalfant.com/top/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://healthputsimply.com/top/books/</guid>
+      <guid>https://grahamchalfant.com/top/books/</guid>
       <description>List of amazing books to improve mental and physical health!
  Fast This Way by Dave Asprey - Learn to fast The Power of Your Subconscious Mind - Learn about subconscious beliefs  </description>
     </item>
